@@ -2,7 +2,7 @@
 
 Pick which preinstalled bloatware, carrier apps and factory test tools to remove.
 
-A KernelSU Next module for the **Foxxd A67L Gen 2**.
+A KernelSU Next module for the **Foxxd A67L Gen 2**. Gen 1 version: [A67LG1-Debloat](https://github.com/thewickedlabs/A67LG1-Debloat).
 
 During install it asks about each app: **Volume Up = remove, Volume Down = keep**. With no answer
 in 10 seconds, the app is kept.
